@@ -1,0 +1,6 @@
+type Avion {
+    model: String
+    matricul:String
+    color: String
+    price: Float
+}
